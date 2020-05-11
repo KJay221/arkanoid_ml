@@ -1,7 +1,3 @@
-"""
-The template of the main script of the machine learning process
-"""
-
 from mlgame.communication import ml as comm
 
 def ml_loop():
